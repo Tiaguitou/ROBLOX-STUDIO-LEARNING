@@ -4,13 +4,8 @@ Estoy aprendiendo a programar en **Lua** para crear juegos en **Roblox**.
 Este perfil es mi cuaderno de aprendizaje: aquí subo mis prácticas y proyectos.
 
 ## 🌱 Qué estoy aprendiendo ahora
-- Lua desde cero: variables, condicionales (`if`), bucles y funciones
+- Lua desde cero
 - Scripting en Roblox Studio
-- [otra cosa que quieras añadir]
-
-## 🎮 Mis proyectos
-- **[nombre del proyecto]**: [una línea sobre qué hace]
-- *(pronto: mi primer juego en Roblox)*
 
 ## 🛠️ Herramientas
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
