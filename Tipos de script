@@ -1,0 +1,3 @@
+Script: Se ejecuta en el servidor, Controla la logica principal y todo lo que debe ser igual para todos los jugadores.
+LocalScript: Se ejecuta en el cliente, es decir, en el dispositivo de cada jugador. Sirve para interfaces, camara y teclado.
+ModuleScript: No se ejecuta solo. Es una "caja de herramientas" de codigo que otros scripts pueden pedir y reutilizar.
